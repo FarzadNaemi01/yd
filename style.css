@@ -1,0 +1,23 @@
+body{
+  background-color : F6F6F6;
+}
+hr{
+  background-color: white;
+  border-style:none;
+  height: 2.5px;
+  border-color: grey;
+  width: 100%;
+  }
+  h1{
+color: #417D7A
+  }
+h3{
+ color: #417D7A
+}
+h2{
+color: #417D7A
+}
+
+#circular{
+  border-radius: 100%
+}
